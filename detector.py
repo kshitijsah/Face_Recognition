@@ -21,12 +21,7 @@ while(True):
 		
 		if (id==1):
 			id="Kshitij"
-		if (id==2):
-			id="Shalu"
-		if (id==3):
-			id="Sudhanshu"
-		if (id==4):
-			id="Divya"
+		
 		
 		print "Hi "+id + " !" 
 
